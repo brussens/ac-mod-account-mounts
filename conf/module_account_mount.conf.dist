@@ -1,0 +1,17 @@
+[worldserver]
+
+###################################################################################################
+#	Account Mounts module
+###################################################################################################
+
+# Enable the module? (1: true | 0: false)
+
+Account.Mounts.Enable = 1
+
+# Strict race
+
+Account.Mounts.StrictRace = 1
+
+# Strict class
+
+Account.Mounts.StrictClass = 1
