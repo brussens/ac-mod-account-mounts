@@ -1,17 +1,14 @@
 [worldserver]
 
 ###################################################################################################
-#	Account Mounts module
+##	Account Mounts module
 ###################################################################################################
 
-# Enable the module? (1: true | 0: false)
-
+## Enable the module? (1: true | 0: false)
 Account.Mounts.Enable = 1
 
-# Strict race
-
+## Faction restricted mounts can't be account shared
 Account.Mounts.StrictRace = 1
 
-# Strict class
-
+## Warlock/paladin/Death knight's mounts can't be account shared
 Account.Mounts.StrictClass = 1
